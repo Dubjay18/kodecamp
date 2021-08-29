@@ -1,0 +1,142 @@
+html {
+    background-color: black;
+    color: white;
+    margin: 0px 70px 0px 70px;
+}
+
+#colf {
+    font-size: 0.5cm;
+    margin: 0px 70px 0px 70px;
+}
+
+h1,
+h2,
+h5,
+h6 {
+    text-align: center;
+}
+
+.block {
+    display: block;
+}
+
+#foot {
+    background-color: grey;
+    width: 70%;
+    height: 10%;
+    padding-left: 400px;
+    padding-right: 10px;
+}
+
+#center {
+    margin-left: 600px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.para {
+    text-align: center;
+}
+
+#circle {
+    height: 80%;
+    width: 50%;
+    border-radius: 50%;
+}
+
+#left {
+    margin-left: 700px;
+}
+
+.image {
+    margin-left: 460px;
+}
+
+.carousel {
+    display: grid;
+    margin-left: 10px;
+}
+
+svg {
+    height: 10%;
+    align-items: center;
+    text-align: center;
+    margin-left: 520px;
+    color: white;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+}
+
+.one img {
+    width: 70%;
+    height: 160%;
+    border-radius: 18px;
+}
+
+.one img:hover {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9));
+    padding: 2px;
+    width: 65%;
+}
+
+.one {
+    width: 80%;
+    border-radius: 10px;
+}
+
+.icons {
+    align-items: center;
+    margin-left: 600px;
+}
+
+.icons a {
+    padding: 40px;
+    text-decoration: none;
+    color: White;
+}
+
+.icons a:hover {
+    color: red;
+}
+
+.two img {
+    width: 70%;
+    height: 60%;
+    border-radius: 18px;
+}
+
+#crimson {
+    color: crimson;
+}
+
+.two img:hover {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9));
+    padding: 2px;
+    width: 65%;
+}
+
+.two {
+    width: 80%;
+    border-radius: 10px;
+    margin-top: 120px;
+}
+
+.btn button {
+    color: crimson;
+    background-color: transparent;
+    border: 1px solid crimson;
+    margin-left: 660px;
+}
+
+.btn button:hover {
+    background-color: crimson;
+    color: black;
+    transition: .4s ease;
+}
